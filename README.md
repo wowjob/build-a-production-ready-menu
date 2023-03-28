@@ -2,10 +2,21 @@
 
 A leading financial institution is seeking to enhance their offerings and stay ahead of the competition. They require a skilled UI developer to aid in their digital transformation journey and that's where you come in!
 
+![Example menu](./resource/menu-example.png)
+
 ## Table of contents
 
+1. [Example projects](#example-projects)
 1. [Nice to have](#nice-to-have)
 1. [Rules](#rules)
+
+## Example projects
+
+![Marian Zburlea's menu](./resource/youtube-example.png)
+
+### Super Simple Menu
+
+My aim was to focus on functionality and performance, without compromising on SEO.
 
 ## Nice to have
 
